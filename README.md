@@ -1,6 +1,7 @@
 # OJ-project
 Predicting if a customer buys MM or CH brand
 
+
 This was a simple project in R, using stored a stored data set.
 The goal was to use a classifcation tree in order to begin to predict
 whether a customer would purchase a certain brand of orange juice.
